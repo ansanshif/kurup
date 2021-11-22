@@ -9,8 +9,8 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 
     var skl = await axios.get("https://wallpapercave.com/uwp/uwp1656018.jpeg", { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Pikachu bot created by Ameer Suhail*
-*Creator number : wa.me/918594013710?text=Hi%20Ameer%20Suhail.%20*
+    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*KURUP bot created by Ans Anshif*
+*Creator number : wa.me/918594013710?text=Hi%20ANSHIF.%20*
 
 *Bot Support Group: https://youtu.be/_D4ZYuUSXjs*
 
