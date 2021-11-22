@@ -12,7 +12,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
     await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*KURUP bot created by Ans Anshif*
 *Creator number : wa.me/918594013710?text=Hi%20ANSHIF.%20*
 
-*Bot Support Group: https://youtu.be/_D4ZYuUSXjs*
+*Bot Support Group: https://chat.whatsapp.com/EV7RLDzrMpNDciA89vVPyy*
 
 *Githublink (Setup)  :    https://github.com/ansanshif/kurup*
 
